@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://westvirginiateleprompter.com/sitemap.xml
+
+# West Virginia Teleprompter - Professional Teleprompter Services
+# Part of the National Teleprompter Network
+# A Claduta Corp Company
